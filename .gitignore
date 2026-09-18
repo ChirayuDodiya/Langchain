@@ -3,3 +3,6 @@ venv
 Notes
 __pycache__/
 my_chroma_db/
+mini_project/
+mini_project_2/
+faiss_index/
